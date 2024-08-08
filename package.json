@@ -1,6 +1,7 @@
 {
   "name": "instagram-points-app",
   "version": "1.0.0",
+  "description": "Web app to earn points for Instagram followers by watching ads, subscribing to a channel, or completing surveys.",
   "main": "index.js",
   "scripts": {
     "start": "netlify dev",
