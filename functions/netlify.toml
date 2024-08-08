@@ -1,0 +1,8 @@
+[build]
+  functions = "netlify/functions"
+  publish = "public"
+
+[[redirects]]
+  from = "/auth/instagram/callback"
+  to = "/.netlify/functions/instagramAuth"
+  status = 200
